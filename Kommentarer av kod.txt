@@ -1,0 +1,12 @@
+﻿
+KOMMENTARER UTAV MAX KOD
+AV: SOFIA BERGKVIST
+
+Koden fungerar bra och har resultatet som visas vid körning är både snygg design mässigt och 
+visar de resultat som efterfrågas. Max har fått med de olika kriterierna för uppgiften med 
+informationen samt de krav på de färdiga chartsen så som text vid X- och Y-axeln. Max ar även 
+laggt in knappar vilket är snyggt och gör informationen lättsoterad. 
+Koden är relativt lätt att förstå och han har gjort kommentarer i koden som förklarar vad som gör 
+vad vilket förenklar. Enda jag skulle viljat sett är att han döpt om ["series"] till vad 
+de faktiskt är kopplade till. Är det en chart om Boston hade det gärna fått stått det i koden för
+ökad läsvänlighet. 
